@@ -1,3 +1,12 @@
+# Compliled files
+/target/
+**/target
+ 
+# Gradle
+.gradle
+/build/
+.gradletasknamecache
+
 # Compiled class file
 *.class
 
